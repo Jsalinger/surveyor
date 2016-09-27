@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Surveyor</string>
+    <string name="activity_title">Surveyor</string>
+    <string name="app_icon_label">Surveyor</string>
+    <string name="barometerAltitudeLabel">Hg (ft):</string>
+    <string name="mslpLabel">MSLP (ft):</string>
+    <string name="googleAltitudeLabel">DMS (ft):</string>
+    <string name="gpsAltitudeLabel">GPS (ft):</string>
+    <string name="notAvailable">N/A</string>
+    <string name="webServiceConnectionFailureMessage">Could not connect to a web service.</string>
+    <string name="gpsNotEnabledMessage">Warning: GPS is not enabled</string>
+    <string name="captureButtonLabel">Capture</string>
+    <string name="refreshButtonLabel">Refresh</string>
+    <string name="menuLoadString">Load CSV Data</string>
+    <string name="menuOutputString">Start New Survey</string>
+    <string name="menuQuitString">Quit Surveyor</string>
+    <string name="chooser_label">Select file or folder</string>
+    
+    
+</resources>

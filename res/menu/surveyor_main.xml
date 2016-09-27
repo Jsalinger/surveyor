@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.donn.surveyor.SurveyorMainActivity" >
+
+    <item
+        android:id="@+id/menuLoadItem"
+        android:orderInCategory="1"
+        android:showAsAction="never"
+        android:title="@string/menuLoadString"/>
+    <item
+        android:id="@+id/menuSaveItem"
+        android:orderInCategory="2"
+        android:showAsAction="never"
+        android:title="@string/menuOutputString"/>
+    <item
+        android:id="@+id/menuQuitItem"
+        android:orderInCategory="3"
+        android:showAsAction="never"
+        android:title="@string/menuQuitString"/>
+
+</menu>
