@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/drenkg/Android/StudioProjects/Surveyor/surveyor/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/Users/drenkg/Android/StudioProjects/Surveyor/surveyor/src/main/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/drenkg/Android/StudioProjects/Surveyor/surveyor/build/intermediates/res/merged/debug/xml/mimetypes.xml",
+        "source": "/Users/drenkg/Android/StudioProjects/Surveyor/surveyor/build/intermediates/exploded-aar/Surveyor/aFileChooser/unspecified/res/xml/mimetypes.xml"
+    }
+]

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <PreferenceCategory
+        android:key="pref_category_key"
+        android:title="Surveyor Settings" >
+        <EditTextPreference
+            android:defaultValue="10"
+            android:key="pref_capture_time_key"
+            android:numeric="integer"
+            android:title="Capture time interval (seconds)" />
+        
+        <EditTextPreference
+            android:defaultValue="10"
+            android:key="pref_dms_min_wait"
+            android:numeric="integer"
+            android:title="Min (secs) wait refresh DMS" />
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:enabled="true"
+            android:key="pref_plot_survey"
+            android:summary="Check if new survey points should plot to map."
+            android:title="Mark survey points?" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
